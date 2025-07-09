@@ -1,0 +1,33 @@
+[
+  { "name": "HTML", "type": "Web Development", "icon": "/images/skills/html.png" },
+  { "name": "CSS", "type": "Web Development", "icon": "/images/skills/css.png" },
+  { "name": "JavaScript", "type": "Web Development", "icon": "/images/skills/javascript.png" },
+  { "name": "React.js", "type": "Web Development", "icon": "/images/skills/react.png" },
+  { "name": "Next.js", "type": "Web Development", "icon": "/images/skills/nextjs.png" },
+  { "name": "TailwindCSS", "type": "Web Development", "icon": "/images/skills/tailwindcss.png" },
+  { "name": "Prisma", "type": "Web Development", "icon": "/images/skills/prisma.png" },
+  { "name": "API Integration", "type": "Web Development", "icon": "/images/skills/api.png" },
+  { "name": "TypeScript", "type": "Web Development", "icon": "/images/skills/typescript.png" },
+  { "name": "Node.js", "type": "Web Development", "icon": "/images/skills/nodejs.png" },
+
+  { "name": "SQL", "type": "Data & Analytics", "icon": "/images/skills/sql.png" },
+  { "name": "Power BI", "type": "Data & Analytics", "icon": "/images/skills/Power BI.svg" },
+  { "name": "Python", "type": "Data & Analytics", "icon": "/images/skills/python.png" },
+  { "name": "Advanced Excel", "type": "Data & Analytics", "icon": "/images/skills/ms-office.png" },
+  { "name": "Google Sheets API", "type": "Data & Analytics", "icon": "/images/skills/google-sheets.png" },
+  { "name": "Jupyter Notebook", "type": "Data & Analytics", "icon": "/images/skills/Jupyter.png" },
+
+  { "name": "Git", "type": "DevTools & Platforms", "icon": "/images/skills/git.png" },
+  { "name": "GitHub", "type": "DevTools & Platforms", "icon": "/images/skills/github.png" },
+  { "name": "VS Code", "type": "DevTools & Platforms", "icon": "/images/skills/vscode.png" },
+  { "name": "Zapier", "type": "DevTools & Platforms", "icon": "/images/skills/zapier.png" },
+  { "name": "n8n", "type": "DevTools & Platforms", "icon": "/images/skills/n8n.png" },
+  { "name": "Power Automate", "type": "DevTools & Platforms", "icon": "/images/skills/PowerAutomate.png" },
+  { "name": "Salesforce", "type": "DevTools & Platforms", "icon": "/images/skills/salesforce.png" },
+  { "name": "HubSpot", "type": "DevTools & Platforms", "icon": "/images/skills/hubspot.png" },
+  { "name": "Zendesk", "type": "DevTools & Platforms", "icon": "/images/skills/zendesk.png" },
+  { "name": "MS Office", "type": "DevTools & Platforms", "icon": "/images/skills/ms-office.png" },
+  { "name": "Google Workspace", "type": "DevTools & Platforms", "icon": "/images/skills/google-workspace.png" },
+  { "name": "Project Management", "type": "DevTools & Platforms", "icon": "/images/skills/project-management.png" },
+  { "name": "Collaboration Tools", "type": "DevTools & Platforms", "icon": "/images/skills/collaboration.png" }
+]
