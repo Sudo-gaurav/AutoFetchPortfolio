@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "title": "PuzzleFlow",
+    "des": "A workflow Automation Tool for large and small teams that can connect apps and automate workflows but Locally, just like Zapier but better. This project is currently in development, with a focus on creating a user-friendly interface and robust backend functionality.",
+    "tech": ["Python", "JavaScript", "AI", "Automation", "HTML/CSS"],
+    "url": "#",
+    "image": "https://cdn.jsdelivr.net/gh/Sudo-gaurav/AutoFetchPortfolio/projects/PuzzleFlow.webp",
+    "category": "Developer"
+  },
+  {
+    "id": 2,
+    "title": "E-Commerce ",
+    "des": "Full-featured e-commerce platform with automated inventory management, dynamic invoicing using Google Sheets API, automated customer notifications, and Custom Accounting System for easy bookkeeping, all in a user-friendly interface. Streamlined manual processes and improved operational efficiency. This is a demonstration version currently on display.",
+    "tech": ["Python", "JavaScript", "Google Sheets API", "HTML/CSS"],
+    "url": "https://Sudo-gaurav.github.io/Hearth-And-Batter-Website/",
+    "image": "https://cdn.jsdelivr.net/gh/Sudo-gaurav/AutoFetchPortfolio/projects/Hearth&Batter.webp",
+    "category": "Developer"
+  },
+  {
+    "id": 3,
+    "title": "ShopBD",
+    "des": "A high-performance, server-rendered Next.js App Router ecommerce application. It uses React Server Components, Server Actions, Suspense, useOptimistic, and more.",
+    "tech": ["React", "NextJS", "Tailwind"],
+    "url": "",
+    "image": "https://cdn.jsdelivr.net/gh/Sudo-gaurav/AutoFetchPortfolio/projects/shopbd.webp",
+    "category": "Developer"
+  },
+  {
+    "id": 4,
+    "title": "AfkeBooks",
+    "des": "AFKebooks is an outstanding ecommerce book selling platform, providing its members with a diverse selection of medical books to meet their needs.",
+    "tech": ["React", "NextJS", "MaterialUI"],
+    "url": "https://afkebooks.vercel.app/",
+    "image": "https://cdn.jsdelivr.net/gh/Sudo-gaurav/AutoFetchPortfolio/projects/afkebooks.webp",
+    "category": "Developer"
+  },
+  {
+    "id": 5,
+    "title": "Sales Performance Dashboard",
+    "des": "An interactive Power BI dashboard that analyzes retail sales performance across products, stores, and regions. This project demonstrates the integration of large datasets using SQL for data joining, Python for initial data inspection, and Power BI for dashboard creation.",
+    "tech": ["SQL", "Python", "Excel", "Power BI"],
+    "url": "https://github.com/Sudo-gaurav/Retail-Sales-Performance-Dashboard",
+    "image": "https://cdn.jsdelivr.net/gh/Sudo-gaurav/AutoFetchPortfolio/projects/RetailSales.webp",
+    "category": "Analytics"
+  },
+  {
+    "id": 6,
+    "title": "HireScore Analytics",
+    "des": "An AI-powered resume analyzer web app built with Flask and Google Gemini AI. Users can upload their resumes and paste job descriptions. AI will analyze how well the resume matches the job and give feedback, a match score, and suggestions for improvement.",
+    "tech": ["HTML/CSS", "Python", "Gemini AI"],
+    "url": "https://hirescore-analytics.onrender.com",
+    "image": "https://cdn.jsdelivr.net/gh/Sudo-gaurav/AutoFetchPortfolio/projects/HireScoreAnalytics.webp",
+    "category": "Automations"
+  }
+]
