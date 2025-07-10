@@ -11,7 +11,7 @@
   { "name": "Node.js", "type": "Web Development", "icon": "https://cdn.jsdelivr.net/gh/Sudo-gaurav/AutoFetchPortfolio/skills/nodejs.webp" },
 
   { "name": "SQL", "type": "Data & Analytics", "icon": "https://cdn.jsdelivr.net/gh/Sudo-gaurav/AutoFetchPortfolio/skills/sql.webp" },
-  { "name": "Power BI", "type": "Data & Analytics", "icon": "https://cdn.jsdelivr.net/gh/Sudo-gaurav/AutoFetchPortfolio/skills/Power BI.webp" },
+  { "name": "Power BI", "type": "Data & Analytics", "icon": "https://cdn.jsdelivr.net/gh/Sudo-gaurav/AutoFetchPortfolio/skills/PowerBI.webp" },
   { "name": "Python", "type": "Data & Analytics", "icon": "https://cdn.jsdelivr.net/gh/Sudo-gaurav/AutoFetchPortfolio/skills/python.webp" },
   { "name": "Advanced Excel", "type": "Data & Analytics", "icon": "https://cdn.jsdelivr.net/gh/Sudo-gaurav/AutoFetchPortfolio/skills/ms-office.webp" },
   { "name": "Google Sheets API", "type": "Data & Analytics", "icon": "https://cdn.jsdelivr.net/gh/Sudo-gaurav/AutoFetchPortfolio/skills/google-sheets.webp" },
