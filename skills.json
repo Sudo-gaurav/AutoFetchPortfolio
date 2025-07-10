@@ -6,7 +6,7 @@
   { "name": "Next.js", "type": "Web Development", "icon": "https://cdn.jsdelivr.net/gh/Sudo-gaurav/AutoFetchPortfolio/skills/nextjs.webp" },
   { "name": "TailwindCSS", "type": "Web Development", "icon": "https://cdn.jsdelivr.net/gh/Sudo-gaurav/AutoFetchPortfolio/skills/tailwindcss.webp" },
   { "name": "Prisma", "type": "Web Development", "icon": "https://cdn.jsdelivr.net/gh/Sudo-gaurav/AutoFetchPortfolio/skills/prisma.webp" },
-  { "name": "API Integration", "type": "Web Development", "icon": "https://cdn.jsdelivr.net/gh/Sudo-gaurav/AutoFetchPortfolio/skills/api.webp" },
+  { "name": "API Integration", "type": "Web Development", "icon": "https://cdn.jsdelivr.net/gh/Sudo-gaurav/AutoFetchPortfolio/skills/API.webp" },
   { "name": "TypeScript", "type": "Web Development", "icon": "https://cdn.jsdelivr.net/gh/Sudo-gaurav/AutoFetchPortfolio/skills/typescript.webp" },
   { "name": "Node.js", "type": "Web Development", "icon": "https://cdn.jsdelivr.net/gh/Sudo-gaurav/AutoFetchPortfolio/skills/nodejs.webp" },
 
