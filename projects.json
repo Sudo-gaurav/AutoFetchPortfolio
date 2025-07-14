@@ -4,7 +4,7 @@
     "title": "PuzzleFlow",
     "des": "A workflow Automation Tool for large and small teams that can connect apps and automate workflows but Locally, just like Zapier but better. This project is currently in development, with a focus on creating a user-friendly interface and robust backend functionality.",
     "tech": ["Python", "JavaScript", "AI", "Automation", "HTML/CSS"],
-    "url": "#",
+    "url": "",
     "image": "https://cdn.jsdelivr.net/gh/Sudo-gaurav/AutoFetchPortfolio/projects/PuzzleFlow.webp",
     "category": "Developer"
   },
